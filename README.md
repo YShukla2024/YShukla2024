@@ -48,7 +48,7 @@
 ---
 
 ### 📫 Let's Connect!  
-🔗 LinkedIn: (https://linkedin.com/in/yourusername)](https://www.linkedin.com/in/yash-shukla-81b7a0329/)  
+🔗 LinkedIn: (https://www.linkedin.com/in/yash-shukla-81b7a0329/)  
 📧 Email: shuklayash215@gmail.com 
 
 ---
