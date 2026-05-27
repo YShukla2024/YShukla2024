@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Yash Shukla!
-**3rd Year BSc Data Science & Artificial Intelligence Student** | Aspiring Data Scientist | AI Enthusiast | Machine Learning Practitioner
+** Graduate In BSc Data Science & Artificial Intelligence Student** | Aspiring Data Scientist | AI Enthusiast | Machine Learning Practitioner
 
 ---
 
