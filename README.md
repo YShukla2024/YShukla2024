@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Yash Shukla!
-** Graduate In BSc Data Science & Artificial Intelligence Student** | Junior AI Engineer  | AI Enthusiast | Machine Learning Practitioner
+**Graduate In BSc Data Science & Artificial Intelligence Student** | *Working as Junior AI Engineer At Synergetics It services india PVt LMT*
 
 ---
 
