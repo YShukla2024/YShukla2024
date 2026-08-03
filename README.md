@@ -72,7 +72,7 @@
 
 ## 💼 Internship Experience
 
-### **Synergetic IT Service** (3 Months - Data Science & AI)
+### **Synergetic IT Service** (7 Months - Data Science & AI)
 - Developed **8 interactive Power BI dashboards** for business analytics and reporting
 - Collected and processed **250+ datasets** of technical trainer profiles and performance metrics
 - Contributed to **AIOps project** for IT infrastructure monitoring and predictive maintenance
