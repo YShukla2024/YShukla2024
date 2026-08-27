@@ -4,7 +4,7 @@
 ---
 
 ## 🚀 About Me
-- 🎓 Currently in **6th Semester** of BSc Data Science & AI at Mumbai University
+- 🎓 Currently in **1st Semester** of Msc Data Science & AI at Mumbai University
 - 📊 Passionate about **Machine Learning, Data Analysis, and AI-driven solutions**
 - 🌱 Deepening skills in: **Python, SQL, Machine Learning, Deep Learning, and MLOps**
 - 🔍 Exploring **Generative AI, Computer Vision, Big Data, and AI Infrastructure**
